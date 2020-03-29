@@ -64,7 +64,7 @@ the raw text to check the original gender.
 
 You need a working python3 environment on your PC/MAC.
 
-On MAC, refer to (this guide)[https://docs.python-guide.org/starting/install3/osx/]. The section
+On MAC, refer to [this guide](https://docs.python-guide.org/starting/install3/osx/). The section
 *Doing it right* should be enough. You need `git` as well: `brew install git`
 
 Then git clone this repository to your PC:
